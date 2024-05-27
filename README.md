@@ -4,10 +4,10 @@
 </div>
 
 
-<div id="header" align="center" class = "align-items-center">
-    <img src='http://fakeimage.fly.dev/400x12.png?color=!222933&textcolor=!222933' />
+<div id="header" align="center">
+    <img src='http://fakeimage.fly.dev/350x12.png?color=!222933&textcolor=!222933' />
     <strong>Skills</strong>
-    <img src='http://fakeimage.fly.dev/400x12.png?color=!222933&textcolor=!222933' />
+    <img src='http://fakeimage.fly.dev/350x12.png?color=!222933&textcolor=!222933' />
 </div>
 <br>
 <div id = "languages" align = "center">
